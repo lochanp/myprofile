@@ -79,7 +79,10 @@ h3 {
     background-color: #E4F9F5;
     height: 600px;
 }
-
+.middle-container p {
+    line-height: 1.8;
+    font-family: 'Merriweather', serif;
+}
 .bottom-container {
     background-color: #E4F9F5;
     padding: 50px 0 20px;
@@ -88,8 +91,6 @@ h3 {
     position: relative;
     top: 180px;
     color: #456268;
-
-
 }
 .me {
     position: relative;
