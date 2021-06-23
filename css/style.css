@@ -116,6 +116,9 @@ h3 {
     text-decoration: none;
     color: inherit;
 }
+.projlinks:hover {
+    font-size: 145% !important;
+}
 .profile p {
     margin:0 4rem;
     font-family: 'Merriweather', serif !important;
